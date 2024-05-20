@@ -1,5 +1,5 @@
 
-git add -A "D:\Orobus\medusa\*"
+git add -A "D:\orobus\medusa\*"
 git commit -a -m "Auto commit by Orobus"
 git push --force
 
