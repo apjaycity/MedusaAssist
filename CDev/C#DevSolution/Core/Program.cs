@@ -10,7 +10,7 @@ namespace C_DevSolution.Core
     {
         public static void Main(string[] args)
         {
-        
+            Form1 form = new Form1();
         }
     }
 }
