@@ -1,0 +1,2 @@
+$params = $args
+echo $params
