@@ -1,5 +1,5 @@
-    git add $NeckPath
-    git commit -m "Auto-update!"
+    git add "D:\Orobus"
+    git commit -a -m "Auto commit by Orobus"
     git push --force
 
 
