@@ -1,0 +1,2 @@
+D:\Orobus\medusa\CDev\C#DevSolution\obj\Debug\C#DevSolution.csproj.AssemblyReference.cache
+D:\Orobus\medusa\CDev\C#DevSolution\obj\Debug\C#DevSolution.csproj.CoreCompileInputs.cache
